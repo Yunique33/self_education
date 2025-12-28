@@ -1,4 +1,4 @@
-# Engineering Notes & Implementations
+# Self-Education Workspace
 
 This repository is my personal workspace for storing hands-on implementations created while studying technical books, 
 courses, and research materials.
